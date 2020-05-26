@@ -1,0 +1,13 @@
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\bin\Debug\netcoreapp3.1\Exercicio01 - Precos.exe
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\bin\Debug\netcoreapp3.1\Exercicio01 - Precos.deps.json
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\bin\Debug\netcoreapp3.1\Exercicio01 - Precos.runtimeconfig.json
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\bin\Debug\netcoreapp3.1\Exercicio01 - Precos.runtimeconfig.dev.json
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\bin\Debug\netcoreapp3.1\Exercicio01 - Precos.dll
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\bin\Debug\netcoreapp3.1\Exercicio01 - Precos.pdb
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\obj\Debug\netcoreapp3.1\Exercicio01 - Precos.csprojAssemblyReference.cache
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\obj\Debug\netcoreapp3.1\Exercicio01 - Precos.csproj.CoreCompileInputs.cache
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\obj\Debug\netcoreapp3.1\Exercicio01 - Precos.AssemblyInfoInputs.cache
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\obj\Debug\netcoreapp3.1\Exercicio01 - Precos.AssemblyInfo.cs
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\obj\Debug\netcoreapp3.1\Exercicio01 - Precos.dll
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\obj\Debug\netcoreapp3.1\Exercicio01 - Precos.pdb
+C:\Users\E156\Documents\ws_vs2020\Exercicio01 - Precos\Exercicio01 - Precos\obj\Debug\netcoreapp3.1\Exercicio01 - Precos.genruntimeconfig.cache
